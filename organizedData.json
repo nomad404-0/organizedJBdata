@@ -1,0 +1,428 @@
+{"Type": "Vehicle", "Name": "JetSki", "TimesTraded": 33739, "UniqueCirculation": 15217, "DemandMultiple": 2.2171912}
+{"Type": "Vehicle", "Name": "Cruiser", "TimesTraded": 19430, "UniqueCirculation": 8591, "DemandMultiple": 2.2616692}
+{"Type": "Vehicle", "Name": "Patrol", "TimesTraded": 23052, "UniqueCirculation": 9980, "DemandMultiple": 2.3098197}
+{"Type": "Vehicle", "Name": "Dirtbike", "TimesTraded": 47315, "UniqueCirculation": 20103, "DemandMultiple": 2.3536289}
+{"Type": "Vehicle", "Name": "Deja", "TimesTraded": 69594, "UniqueCirculation": 29421, "DemandMultiple": 2.3654532}
+{"Type": "Vehicle", "Name": "Pickup", "TimesTraded": 99163, "UniqueCirculation": 41335, "DemandMultiple": 2.399008}
+{"Type": "Vehicle", "Name": "ATV", "TimesTraded": 23841, "UniqueCirculation": 9866, "DemandMultiple": 2.4164808}
+{"Type": "Vehicle", "Name": "Model3", "TimesTraded": 159660, "UniqueCirculation": 65215, "DemandMultiple": 2.4482098}
+{"Type": "Vehicle", "Name": "Ambulance", "TimesTraded": 14726, "UniqueCirculation": 5945, "DemandMultiple": 2.4770396}
+{"Type": "Vehicle", "Name": "Camper", "TimesTraded": 8235, "UniqueCirculation": 3282, "DemandMultiple": 2.5091407}
+{"Type": "Vehicle", "Name": "Badger", "TimesTraded": 12826, "UniqueCirculation": 5094, "DemandMultiple": 2.5178642}
+{"Type": "Vehicle", "Name": "Interrogator", "TimesTraded": 45445, "UniqueCirculation": 17936, "DemandMultiple": 2.533731}
+{"Type": "Vehicle", "Name": "Tow Truck", "TimesTraded": 15631, "UniqueCirculation": 6097, "DemandMultiple": 2.5637197}
+{"Type": "Vehicle", "Name": "DuneBuggy", "TimesTraded": 54585, "UniqueCirculation": 21000, "DemandMultiple": 2.5992856}
+{"Type": "Vehicle", "Name": "Ray", "TimesTraded": 46567, "UniqueCirculation": 17891, "DemandMultiple": 2.602817}
+{"Type": "Vehicle", "Name": "Mighty", "TimesTraded": 14591, "UniqueCirculation": 5599, "DemandMultiple": 2.6060011}
+{"Type": "Vehicle", "Name": "Classic", "TimesTraded": 20056, "UniqueCirculation": 7460, "DemandMultiple": 2.6884718}
+{"Type": "Vehicle", "Name": "SUV", "TimesTraded": 19084, "UniqueCirculation": 6968, "DemandMultiple": 2.738806}
+{"Type": "Vehicle", "Name": "Boxer", "TimesTraded": 32980, "UniqueCirculation": 11808, "DemandMultiple": 2.7930217}
+{"Type": "Vehicle", "Name": "Firetruck", "TimesTraded": 12170, "UniqueCirculation": 4337, "DemandMultiple": 2.8060873}
+{"Type": "Vehicle", "Name": "Shell Mark-5", "TimesTraded": 43732, "UniqueCirculation": 15463, "DemandMultiple": 2.8281705}
+{"Type": "Vehicle", "Name": "Challenger", "TimesTraded": 53943, "UniqueCirculation": 18871, "DemandMultiple": 2.858513}
+{"Type": "Vehicle", "Name": "Steed", "TimesTraded": 12438, "UniqueCirculation": 4282, "DemandMultiple": 2.9047174}
+{"Type": "Vehicle", "Name": "Semi Truck", "TimesTraded": 38495, "UniqueCirculation": 13064, "DemandMultiple": 2.9466472}
+{"Type": "Vehicle", "Name": "NASCAR 75th", "TimesTraded": 32769, "UniqueCirculation": 11037, "DemandMultiple": 2.9690132}
+{"Type": "Vehicle", "Name": "Surus", "TimesTraded": 35663, "UniqueCirculation": 11548, "DemandMultiple": 3.0882404}
+{"Type": "Vehicle", "Name": "LittleBird", "TimesTraded": 69764, "UniqueCirculation": 22478, "DemandMultiple": 3.103657}
+{"Type": "Vehicle", "Name": "Posh", "TimesTraded": 27323, "UniqueCirculation": 8730, "DemandMultiple": 3.1297824}
+{"Type": "Vehicle", "Name": "Cybertruck", "TimesTraded": 69346, "UniqueCirculation": 22141, "DemandMultiple": 3.1320176}
+{"Type": "Vehicle", "Name": "Stunt", "TimesTraded": 30907, "UniqueCirculation": 9856, "DemandMultiple": 3.1358564}
+{"Type": "Vehicle", "Name": "Delorean", "TimesTraded": 27985, "UniqueCirculation": 8835, "DemandMultiple": 3.1675155}
+{"Type": "Vehicle", "Name": "EscapeBot", "TimesTraded": 103149, "UniqueCirculation": 31690, "DemandMultiple": 3.2549384}
+{"Type": "Vehicle", "Name": "La Matador", "TimesTraded": 214935, "UniqueCirculation": 65333, "DemandMultiple": 3.2898383}
+{"Type": "Vehicle", "Name": "Desert Crawler", "TimesTraded": 39450, "UniqueCirculation": 11111, "DemandMultiple": 3.5505354}
+{"Type": "Vehicle", "Name": "Sentinel", "TimesTraded": 20904, "UniqueCirculation": 5818, "DemandMultiple": 3.5929873}
+{"Type": "Vehicle", "Name": "Ray 9", "TimesTraded": 48001, "UniqueCirculation": 13341, "DemandMultiple": 3.5980062}
+{"Type": "Vehicle", "Name": "Stallion", "TimesTraded": 74257, "UniqueCirculation": 20399, "DemandMultiple": 3.6402276}
+{"Type": "Vehicle", "Name": "Poseidon", "TimesTraded": 834, "UniqueCirculation": 228, "DemandMultiple": 3.6578948}
+{"Type": "Vehicle", "Name": "Shell Classic", "TimesTraded": 10511, "UniqueCirculation": 2715, "DemandMultiple": 3.871455}
+{"Type": "Vehicle", "Name": "Roadster", "TimesTraded": 116056, "UniqueCirculation": 28856, "DemandMultiple": 4.021902}
+{"Type": "Vehicle", "Name": "Beignet", "TimesTraded": 15816, "UniqueCirculation": 3782, "DemandMultiple": 4.1819143}
+{"Type": "Vehicle", "Name": "Crown", "TimesTraded": 12323, "UniqueCirculation": 2914, "DemandMultiple": 4.228895}
+{"Type": "Vehicle", "Name": "Eclaire", "TimesTraded": 144005, "UniqueCirculation": 33191, "DemandMultiple": 4.338676}
+{"Type": "Vehicle", "Name": "Javelin", "TimesTraded": 24309, "UniqueCirculation": 5582, "DemandMultiple": 4.354891}
+{"Type": "Vehicle", "Name": "Proto-8", "TimesTraded": 21176, "UniqueCirculation": 4765, "DemandMultiple": 4.4440713}
+{"Type": "Vehicle", "Name": "Banana Car", "TimesTraded": 5158, "UniqueCirculation": 1158, "DemandMultiple": 4.4542313}
+{"Type": "Vehicle", "Name": "UFO", "TimesTraded": 42768, "UniqueCirculation": 9552, "DemandMultiple": 4.477387}
+{"Type": "Vehicle", "Name": "Tiny Toy", "TimesTraded": 25497, "UniqueCirculation": 5668, "DemandMultiple": 4.498412}
+{"Type": "Vehicle", "Name": "Sloop", "TimesTraded": 5164, "UniqueCirculation": 1139, "DemandMultiple": 4.5338016}
+{"Type": "Vehicle", "Name": "ICEBreaker", "TimesTraded": 4697, "UniqueCirculation": 1028, "DemandMultiple": 4.569066}
+{"Type": "Vehicle", "Name": "Jack Rabbit", "TimesTraded": 9660, "UniqueCirculation": 2079, "DemandMultiple": 4.646465}
+{"Type": "Vehicle", "Name": "Shogun", "TimesTraded": 47586, "UniqueCirculation": 10158, "DemandMultiple": 4.6845837}
+{"Type": "Vehicle", "Name": "BlackHawk", "TimesTraded": 106539, "UniqueCirculation": 22316, "DemandMultiple": 4.7741084}
+{"Type": "Vehicle", "Name": "Volt", "TimesTraded": 201435, "UniqueCirculation": 42137, "DemandMultiple": 4.780478}
+{"Type": "Vehicle", "Name": "Raptor", "TimesTraded": 4572, "UniqueCirculation": 940, "DemandMultiple": 4.8638296}
+{"Type": "Vehicle", "Name": "Megalodon", "TimesTraded": 23774, "UniqueCirculation": 4861, "DemandMultiple": 4.8907633}
+{"Type": "Vehicle", "Name": "Crew Capsule", "TimesTraded": 5505, "UniqueCirculation": 1124, "DemandMultiple": 4.897687}
+{"Type": "Vehicle", "Name": "Celsior", "TimesTraded": 12198, "UniqueCirculation": 2484, "DemandMultiple": 4.910628}
+{"Type": "Vehicle", "Name": "Rattler", "TimesTraded": 9456, "UniqueCirculation": 1886, "DemandMultiple": 5.013786}
+{"Type": "Vehicle", "Name": "Air Tail", "TimesTraded": 42788, "UniqueCirculation": 8353, "DemandMultiple": 5.122471}
+{"Type": "Vehicle", "Name": "Agent", "TimesTraded": 13049, "UniqueCirculation": 2521, "DemandMultiple": 5.1761208}
+{"Type": "Vehicle", "Name": "Goliath", "TimesTraded": 13215, "UniqueCirculation": 2551, "DemandMultiple": 5.180321}
+{"Type": "Vehicle", "Name": "Jet", "TimesTraded": 48408, "UniqueCirculation": 9311, "DemandMultiple": 5.199012}
+{"Type": "Vehicle", "Name": "Brulee", "TimesTraded": 56783, "UniqueCirculation": 10907, "DemandMultiple": 5.206106}
+{"Type": "Vehicle", "Name": "Parisian", "TimesTraded": 46860, "UniqueCirculation": 8604, "DemandMultiple": 5.446304}
+{"Type": "Vehicle", "Name": "Bandit", "TimesTraded": 12932, "UniqueCirculation": 2346, "DemandMultiple": 5.5123615}
+{"Type": "Vehicle", "Name": "Snake", "TimesTraded": 53794, "UniqueCirculation": 9752, "DemandMultiple": 5.516202}
+{"Type": "Vehicle", "Name": "Drone", "TimesTraded": 118846, "UniqueCirculation": 21483, "DemandMultiple": 5.532095}
+{"Type": "Vehicle", "Name": "Tank", "TimesTraded": 16999, "UniqueCirculation": 3047, "DemandMultiple": 5.57893}
+{"Type": "Vehicle", "Name": "Arachnid", "TimesTraded": 6595, "UniqueCirculation": 1182, "DemandMultiple": 5.5795264}
+{"Type": "Vehicle", "Name": "Torero", "TimesTraded": 15524, "UniqueCirculation": 2763, "DemandMultiple": 5.6185308}
+{"Type": "Vehicle", "Name": "Monster", "TimesTraded": 35497, "UniqueCirculation": 6315, "DemandMultiple": 5.621061}
+{"Type": "Vehicle", "Name": "Trailblazer", "TimesTraded": 36402, "UniqueCirculation": 6397, "DemandMultiple": 5.6904798}
+{"Type": "Vehicle", "Name": "Macaron", "TimesTraded": 24887, "UniqueCirculation": 4336, "DemandMultiple": 5.7396216}
+{"Type": "Vehicle", "Name": "Concept", "TimesTraded": 60906, "UniqueCirculation": 10551, "DemandMultiple": 5.7725334}
+{"Type": "Vehicle", "Name": "Volt4x4", "TimesTraded": 11950, "UniqueCirculation": 2055, "DemandMultiple": 5.815085}
+{"Type": "Vehicle", "Name": "JB8", "TimesTraded": 15785, "UniqueCirculation": 2672, "DemandMultiple": 5.90756}
+{"Type": "Vehicle", "Name": "Bloxy", "TimesTraded": 18797, "UniqueCirculation": 3139, "DemandMultiple": 5.9882126}
+{"Type": "Vehicle", "Name": "MoltenM12", "TimesTraded": 37589, "UniqueCirculation": 5877, "DemandMultiple": 6.3959503}
+{"Type": "Vehicle", "Name": "Beam Hybrid", "TimesTraded": 5779, "UniqueCirculation": 864, "DemandMultiple": 6.6886573}
+{"Type": "Vehicle", "Name": "Torpedo", "TimesTraded": 13648, "UniqueCirculation": 1862, "DemandMultiple": 7.329753}
+{"Type": "VehicleCustomization.Tire", "Name": "Speed", "TimesTraded": 1624, "UniqueCirculation": 1251, "DemandMultiple": 1.2981615}
+{"Type": "VehicleCustomization.Tire", "Name": "Police", "TimesTraded": 324, "UniqueCirculation": 249, "DemandMultiple": 1.3012048}
+{"Type": "VehicleCustomization.Tire", "Name": "Offroad", "TimesTraded": 1319, "UniqueCirculation": 1007, "DemandMultiple": 1.3098311}
+{"Type": "VehicleCustomization.Tire", "Name": "JBMS", "TimesTraded": 540, "UniqueCirculation": 412, "DemandMultiple": 1.3106796}
+{"Type": "VehicleCustomization.Tire", "Name": "NapkinNate", "TimesTraded": 634, "UniqueCirculation": 483, "DemandMultiple": 1.3126293}
+{"Type": "VehicleCustomization.Tire", "Name": "Jailbreak", "TimesTraded": 758, "UniqueCirculation": 574, "DemandMultiple": 1.3205575}
+{"Type": "VehicleCustomization.Tire", "Name": "Line", "TimesTraded": 2249, "UniqueCirculation": 1691, "DemandMultiple": 1.3299823}
+{"Type": "VehicleCustomization.Tire", "Name": "Tracer", "TimesTraded": 3727, "UniqueCirculation": 2799, "DemandMultiple": 1.331547}
+{"Type": "VehicleCustomization.Tire", "Name": "Criminal", "TimesTraded": 865, "UniqueCirculation": 647, "DemandMultiple": 1.3369397}
+{"Type": "VehicleCustomization.Tire", "Name": "Phindr", "TimesTraded": 363, "UniqueCirculation": 271, "DemandMultiple": 1.3394834}
+{"Type": "VehicleCustomization.Tire", "Name": "DatBrian", "TimesTraded": 526, "UniqueCirculation": 388, "DemandMultiple": 1.3556701}
+{"Type": "VehicleCustomization.Tire", "Name": "MyUsernamesThis", "TimesTraded": 1550, "UniqueCirculation": 1132, "DemandMultiple": 1.3692579}
+{"Type": "VehicleCustomization.Tire", "Name": "CrashNation", "TimesTraded": 1415, "UniqueCirculation": 1033, "DemandMultiple": 1.3697968}
+{"Type": "VehicleCustomization.Tire", "Name": "Thin", "TimesTraded": 614, "UniqueCirculation": 447, "DemandMultiple": 1.3736018}
+{"Type": "VehicleCustomization.Tire", "Name": "Construction", "TimesTraded": 9477, "UniqueCirculation": 6887, "DemandMultiple": 1.3760709}
+{"Type": "VehicleCustomization.Tire", "Name": "Badonuts", "TimesTraded": 11907, "UniqueCirculation": 8626, "DemandMultiple": 1.3803617}
+{"Type": "VehicleCustomization.Tire", "Name": "Jailbreak Army", "TimesTraded": 384, "UniqueCirculation": 276, "DemandMultiple": 1.3913044}
+{"Type": "VehicleCustomization.Tire", "Name": "KreekCraft", "TimesTraded": 1083, "UniqueCirculation": 772, "DemandMultiple": 1.4028498}
+{"Type": "VehicleCustomization.Tire", "Name": "NASCAR 75th", "TimesTraded": 472, "UniqueCirculation": 336, "DemandMultiple": 1.4047619}
+{"Type": "VehicleCustomization.Tire", "Name": "Japanese", "TimesTraded": 796, "UniqueCirculation": 557, "DemandMultiple": 1.4290844}
+{"Type": "VehicleCustomization.Tire", "Name": "Buoy", "TimesTraded": 32998, "UniqueCirculation": 22101, "DemandMultiple": 1.4930546}
+{"Type": "VehicleCustomization.Tire", "Name": "Kanagawa", "TimesTraded": 7912, "UniqueCirculation": 5177, "DemandMultiple": 1.5282983}
+{"Type": "VehicleCustomization.Tire", "Name": "Lightning", "TimesTraded": 6788, "UniqueCirculation": 4396, "DemandMultiple": 1.544131}
+{"Type": "VehicleCustomization.Tire", "Name": "Champion", "TimesTraded": 12445, "UniqueCirculation": 7932, "DemandMultiple": 1.5689611}
+{"Type": "VehicleCustomization.Tire", "Name": "Tokyo", "TimesTraded": 37882, "UniqueCirculation": 23182, "DemandMultiple": 1.6341127}
+{"Type": "VehicleCustomization.Tire", "Name": "3Billion", "TimesTraded": 1148, "UniqueCirculation": 678, "DemandMultiple": 1.6932154}
+{"Type": "VehicleCustomization.Tire", "Name": "RedS3", "TimesTraded": 2138, "UniqueCirculation": 1106, "DemandMultiple": 1.9330922}
+{"Type": "VehicleCustomization.Tire", "Name": "BlueS3", "TimesTraded": 2043, "UniqueCirculation": 1022, "DemandMultiple": 1.9990215}
+{"Type": "VehicleCustomization.Tire", "Name": "Blue50", "TimesTraded": 1033, "UniqueCirculation": 480, "DemandMultiple": 2.1520834}
+{"Type": "VehicleCustomization.Tire", "Name": "Red50", "TimesTraded": 1169, "UniqueCirculation": 521, "DemandMultiple": 2.243762}
+{"Type": "VehicleCustomization.Texture", "Name": "Zebra", "TimesTraded": 1747, "UniqueCirculation": 1318, "DemandMultiple": 1.3254932}
+{"Type": "VehicleCustomization.Texture", "Name": "Lines", "TimesTraded": 1230, "UniqueCirculation": 920, "DemandMultiple": 1.3369565}
+{"Type": "VehicleCustomization.Texture", "Name": "ClassicVar3", "TimesTraded": 4667, "UniqueCirculation": 3487, "DemandMultiple": 1.3383998}
+{"Type": "VehicleCustomization.Texture", "Name": "ClassicVar1", "TimesTraded": 9098, "UniqueCirculation": 6724, "DemandMultiple": 1.3530637}
+{"Type": "VehicleCustomization.Texture", "Name": "Paint", "TimesTraded": 5523, "UniqueCirculation": 4061, "DemandMultiple": 1.3600099}
+{"Type": "VehicleCustomization.Texture", "Name": "ClassicVar2", "TimesTraded": 11296, "UniqueCirculation": 8268, "DemandMultiple": 1.3662312}
+{"Type": "VehicleCustomization.Texture", "Name": "Taxi", "TimesTraded": 17823, "UniqueCirculation": 13023, "DemandMultiple": 1.3685787}
+{"Type": "VehicleCustomization.Texture", "Name": "Police", "TimesTraded": 16194, "UniqueCirculation": 11744, "DemandMultiple": 1.3789169}
+{"Type": "VehicleCustomization.Texture", "Name": "Cow", "TimesTraded": 12536, "UniqueCirculation": 9029, "DemandMultiple": 1.3884151}
+{"Type": "VehicleCustomization.Texture", "Name": "Two Sided", "TimesTraded": 4092, "UniqueCirculation": 2941, "DemandMultiple": 1.3913635}
+{"Type": "VehicleCustomization.Texture", "Name": "Peach", "TimesTraded": 6115, "UniqueCirculation": 4382, "DemandMultiple": 1.3954815}
+{"Type": "VehicleCustomization.Texture", "Name": "Ladybug", "TimesTraded": 6218, "UniqueCirculation": 4436, "DemandMultiple": 1.4017133}
+{"Type": "VehicleCustomization.Texture", "Name": "Ice", "TimesTraded": 4801, "UniqueCirculation": 3422, "DemandMultiple": 1.4029807}
+{"Type": "VehicleCustomization.Texture", "Name": "Donut", "TimesTraded": 2157, "UniqueCirculation": 1537, "DemandMultiple": 1.4033833}
+{"Type": "VehicleCustomization.Texture", "Name": "Rainbow", "TimesTraded": 23609, "UniqueCirculation": 16710, "DemandMultiple": 1.4128666}
+{"Type": "VehicleCustomization.Texture", "Name": "Racer", "TimesTraded": 5870, "UniqueCirculation": 4149, "DemandMultiple": 1.4147987}
+{"Type": "VehicleCustomization.Texture", "Name": "Speed", "TimesTraded": 24962, "UniqueCirculation": 17627, "DemandMultiple": 1.416123}
+{"Type": "VehicleCustomization.Texture", "Name": "Frit", "TimesTraded": 3852, "UniqueCirculation": 2719, "DemandMultiple": 1.4166973}
+{"Type": "VehicleCustomization.Texture", "Name": "Swirl", "TimesTraded": 4099, "UniqueCirculation": 2882, "DemandMultiple": 1.4222761}
+{"Type": "VehicleCustomization.Texture", "Name": "Patchy Jeans", "TimesTraded": 830, "UniqueCirculation": 579, "DemandMultiple": 1.433506}
+{"Type": "VehicleCustomization.Texture", "Name": "Ball", "TimesTraded": 3919, "UniqueCirculation": 2716, "DemandMultiple": 1.4429308}
+{"Type": "VehicleCustomization.Texture", "Name": "Frost", "TimesTraded": 12734, "UniqueCirculation": 8789, "DemandMultiple": 1.4488565}
+{"Type": "VehicleCustomization.Texture", "Name": "Watermelon", "TimesTraded": 753, "UniqueCirculation": 512, "DemandMultiple": 1.4707031}
+{"Type": "VehicleCustomization.Texture", "Name": "Scorch", "TimesTraded": 5032, "UniqueCirculation": 3398, "DemandMultiple": 1.4808711}
+{"Type": "VehicleCustomization.Texture", "Name": "Galaxy Wave", "TimesTraded": 10665, "UniqueCirculation": 7199, "DemandMultiple": 1.4814558}
+{"Type": "VehicleCustomization.Texture", "Name": "Camo", "TimesTraded": 1710, "UniqueCirculation": 1151, "DemandMultiple": 1.4856646}
+{"Type": "VehicleCustomization.Texture", "Name": "Wireframe", "TimesTraded": 1407, "UniqueCirculation": 946, "DemandMultiple": 1.487315}
+{"Type": "VehicleCustomization.Texture", "Name": "Desert Camo", "TimesTraded": 848, "UniqueCirculation": 567, "DemandMultiple": 1.4955908}
+{"Type": "VehicleCustomization.Texture", "Name": "Volcano", "TimesTraded": 2921, "UniqueCirculation": 1951, "DemandMultiple": 1.4971809}
+{"Type": "VehicleCustomization.Texture", "Name": "Volt", "TimesTraded": 18023, "UniqueCirculation": 12026, "DemandMultiple": 1.4986695}
+{"Type": "VehicleCustomization.Texture", "Name": "Candy Cane", "TimesTraded": 3722, "UniqueCirculation": 2482, "DemandMultiple": 1.4995971}
+{"Type": "VehicleCustomization.Texture", "Name": "Diamond", "TimesTraded": 4406, "UniqueCirculation": 2914, "DemandMultiple": 1.5120109}
+{"Type": "VehicleCustomization.Texture", "Name": "Galaxy", "TimesTraded": 2974, "UniqueCirculation": 1951, "DemandMultiple": 1.5243465}
+{"Type": "VehicleCustomization.Texture", "Name": "Road Warrior", "TimesTraded": 3170, "UniqueCirculation": 2041, "DemandMultiple": 1.5531602}
+{"Type": "VehicleCustomization.Texture", "Name": "Dragon Scales", "TimesTraded": 887, "UniqueCirculation": 563, "DemandMultiple": 1.5754884}
+{"Type": "VehicleCustomization.Texture", "Name": "Nuclear Waste", "TimesTraded": 1625, "UniqueCirculation": 1030, "DemandMultiple": 1.5776699}
+{"Type": "VehicleCustomization.Texture", "Name": "Lightning", "TimesTraded": 611, "UniqueCirculation": 357, "DemandMultiple": 1.7114846}
+{"Type": "VehicleCustomization.Texture", "Name": "Hotdog", "TimesTraded": 768, "UniqueCirculation": 440, "DemandMultiple": 1.7454545}
+{"Type": "VehicleCustomization.Texture", "Name": "Glowing Yellow", "TimesTraded": 1026, "UniqueCirculation": 578, "DemandMultiple": 1.7750865}
+{"Type": "VehicleCustomization.Texture", "Name": "Deep Purple Flame", "TimesTraded": 7485, "UniqueCirculation": 4150, "DemandMultiple": 1.8036145}
+{"Type": "VehicleCustomization.Texture", "Name": "Money", "TimesTraded": 1313, "UniqueCirculation": 706, "DemandMultiple": 1.8597734}
+{"Type": "VehicleCustomization.Texture", "Name": "Aquatic", "TimesTraded": 10958, "UniqueCirculation": 5821, "DemandMultiple": 1.8824944}
+{"Type": "VehicleCustomization.Texture", "Name": "Carbon Fire", "TimesTraded": 10871, "UniqueCirculation": 5709, "DemandMultiple": 1.9041864}
+{"Type": "VehicleCustomization.Texture", "Name": "Old Town Road", "TimesTraded": 596, "UniqueCirculation": 303, "DemandMultiple": 1.9669967}
+{"Type": "VehicleCustomization.Texture", "Name": "Earth", "TimesTraded": 861, "UniqueCirculation": 433, "DemandMultiple": 1.9884527}
+{"Type": "VehicleCustomization.Texture", "Name": "Earthquake", "TimesTraded": 636, "UniqueCirculation": 313, "DemandMultiple": 2.0319488}
+{"Type": "VehicleCustomization.Texture", "Name": "Touchdown", "TimesTraded": 12889, "UniqueCirculation": 6341, "DemandMultiple": 2.0326447}
+{"Type": "VehicleCustomization.Texture", "Name": "Field", "TimesTraded": 1679, "UniqueCirculation": 815, "DemandMultiple": 2.0601227}
+{"Type": "VehicleCustomization.Texture", "Name": "Camo Radar", "TimesTraded": 2217, "UniqueCirculation": 1058, "DemandMultiple": 2.095463}
+{"Type": "VehicleCustomization.Texture", "Name": "Wooden Toy", "TimesTraded": 6659, "UniqueCirculation": 3154, "DemandMultiple": 2.1112874}
+{"Type": "VehicleCustomization.Texture", "Name": "Circuits", "TimesTraded": 1778, "UniqueCirculation": 833, "DemandMultiple": 2.1344538}
+{"Type": "VehicleCustomization.Texture", "Name": "Crimson Racer", "TimesTraded": 2865, "UniqueCirculation": 1309, "DemandMultiple": 2.1886938}
+{"Type": "VehicleCustomization.Texture", "Name": "Bacon", "TimesTraded": 3674, "UniqueCirculation": 1674, "DemandMultiple": 2.1947432}
+{"Type": "VehicleCustomization.Texture", "Name": "Superstar", "TimesTraded": 7209, "UniqueCirculation": 3220, "DemandMultiple": 2.2388198}
+{"Type": "VehicleCustomization.Texture", "Name": "White Marble", "TimesTraded": 3807, "UniqueCirculation": 1681, "DemandMultiple": 2.2647233}
+{"Type": "VehicleCustomization.Texture", "Name": "Wavy", "TimesTraded": 2814, "UniqueCirculation": 1216, "DemandMultiple": 2.3141448}
+{"Type": "VehicleCustomization.Texture", "Name": "Manga", "TimesTraded": 17242, "UniqueCirculation": 7403, "DemandMultiple": 2.3290558}
+{"Type": "VehicleCustomization.Texture", "Name": "Tiger", "TimesTraded": 3005, "UniqueCirculation": 1271, "DemandMultiple": 2.36428}
+{"Type": "VehicleCustomization.Texture", "Name": "Black Ice", "TimesTraded": 1480, "UniqueCirculation": 622, "DemandMultiple": 2.3794212}
+{"Type": "VehicleCustomization.Texture", "Name": "Lava", "TimesTraded": 3570, "UniqueCirculation": 1495, "DemandMultiple": 2.38796}
+{"Type": "VehicleCustomization.Texture", "Name": "DigitalConfetti", "TimesTraded": 6456, "UniqueCirculation": 2545, "DemandMultiple": 2.5367386}
+{"Type": "VehicleCustomization.Texture", "Name": "Gulf", "TimesTraded": 7851, "UniqueCirculation": 3086, "DemandMultiple": 2.54407}
+{"Type": "VehicleCustomization.Texture", "Name": "Flaming", "TimesTraded": 6271, "UniqueCirculation": 2453, "DemandMultiple": 2.5564616}
+{"Type": "VehicleCustomization.Texture", "Name": "Blue Pixel", "TimesTraded": 3933, "UniqueCirculation": 1137, "DemandMultiple": 3.4591029}
+{"Type": "VehicleCustomization.Texture", "Name": "Galactic Carbon", "TimesTraded": 4416, "UniqueCirculation": 1265, "DemandMultiple": 3.490909}
+{"Type": "VehicleCustomization.Texture", "Name": "Winter Camo", "TimesTraded": 3732, "UniqueCirculation": 1059, "DemandMultiple": 3.5240793}
+{"Type": "VehicleCustomization.Texture", "Name": "Orange Pixel", "TimesTraded": 5400, "UniqueCirculation": 1528, "DemandMultiple": 3.5340314}
+{"Type": "VehicleCustomization.Texture", "Name": "Armor", "TimesTraded": 3345, "UniqueCirculation": 946, "DemandMultiple": 3.535941}
+{"Type": "VehicleCustomization.Texture", "Name": "Snowstorm", "TimesTraded": 2113, "UniqueCirculation": 557, "DemandMultiple": 3.793537}
+{"Type": "VehicleCustomization.Texture", "Name": "Checker", "TimesTraded": 3584, "UniqueCirculation": 895, "DemandMultiple": 4.0044694}
+{"Type": "VehicleCustomization.Texture", "Name": "Fire", "TimesTraded": 3799, "UniqueCirculation": 948, "DemandMultiple": 4.007384}
+{"Type": "VehicleCustomization.Texture", "Name": "Drip", "TimesTraded": 6939, "UniqueCirculation": 1564, "DemandMultiple": 4.436701}
+{"Type": "VehicleCustomization.Texture", "Name": "Pixel", "TimesTraded": 50403, "UniqueCirculation": 10874, "DemandMultiple": 4.635185}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Arch", "TimesTraded": 473, "UniqueCirculation": 358, "DemandMultiple": 1.3212291}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Classic", "TimesTraded": 4078, "UniqueCirculation": 2977, "DemandMultiple": 1.3698354}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Racing Wing", "TimesTraded": 3440, "UniqueCirculation": 2509, "DemandMultiple": 1.3710642}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tailfin", "TimesTraded": 689, "UniqueCirculation": 495, "DemandMultiple": 1.3919191}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Mark5", "TimesTraded": 892, "UniqueCirculation": 636, "DemandMultiple": 1.4025158}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Block Wing", "TimesTraded": 9552, "UniqueCirculation": 6718, "DemandMultiple": 1.4218518}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Boomerang", "TimesTraded": 2521, "UniqueCirculation": 1771, "DemandMultiple": 1.4234896}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tall Arch", "TimesTraded": 1150, "UniqueCirculation": 790, "DemandMultiple": 1.4556962}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Shell Speaker", "TimesTraded": 431, "UniqueCirculation": 293, "DemandMultiple": 1.4709897}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Rocket", "TimesTraded": 3454, "UniqueCirculation": 2348, "DemandMultiple": 1.4710392}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tiny Wing", "TimesTraded": 644, "UniqueCirculation": 434, "DemandMultiple": 1.483871}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Park Bench", "TimesTraded": 689, "UniqueCirculation": 462, "DemandMultiple": 1.491342}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Eternal Flame", "TimesTraded": 66394, "UniqueCirculation": 44085, "DemandMultiple": 1.5060451}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Snow Shovel", "TimesTraded": 231, "UniqueCirculation": 149, "DemandMultiple": 1.5503355}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Shogun", "TimesTraded": 5702, "UniqueCirculation": 3676, "DemandMultiple": 1.5511426}
+{"Type": "VehicleCustomization.Spoiler", "Name": "BatWings", "TimesTraded": 3722, "UniqueCirculation": 2369, "DemandMultiple": 1.571127}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Racer", "TimesTraded": 4130, "UniqueCirculation": 2599, "DemandMultiple": 1.5890727}
+{"Type": "VehicleCustomization.Spoiler", "Name": "AerialSupport", "TimesTraded": 3768, "UniqueCirculation": 2357, "DemandMultiple": 1.5986423}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Bicycle Rack", "TimesTraded": 272, "UniqueCirculation": 170, "DemandMultiple": 1.6}
+{"Type": "VehicleCustomization.Spoiler", "Name": "GTR", "TimesTraded": 4164, "UniqueCirculation": 2597, "DemandMultiple": 1.6033885}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Terminator", "TimesTraded": 9289, "UniqueCirculation": 5788, "DemandMultiple": 1.6048721}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Glider", "TimesTraded": 289, "UniqueCirculation": 178, "DemandMultiple": 1.6235955}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Harpoon", "TimesTraded": 21618, "UniqueCirculation": 13209, "DemandMultiple": 1.6366113}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Surfboard Rack", "TimesTraded": 2962, "UniqueCirculation": 1782, "DemandMultiple": 1.6621773}
+{"Type": "VehicleCustomization.Spoiler", "Name": "T.Rex Bone", "TimesTraded": 6154, "UniqueCirculation": 3618, "DemandMultiple": 1.7009398}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Flame Spitter", "TimesTraded": 11927, "UniqueCirculation": 6981, "DemandMultiple": 1.7084945}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Spares", "TimesTraded": 12688, "UniqueCirculation": 7399, "DemandMultiple": 1.7148263}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Trade Sail", "TimesTraded": 2453, "UniqueCirculation": 1402, "DemandMultiple": 1.7496433}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Volt Wing", "TimesTraded": 298, "UniqueCirculation": 170, "DemandMultiple": 1.7529411}
+{"Type": "VehicleCustomization.Spoiler", "Name": "DragonBreath", "TimesTraded": 8900, "UniqueCirculation": 5067, "DemandMultiple": 1.7564634}
+{"Type": "VehicleCustomization.Spoiler", "Name": "TikiTorch", "TimesTraded": 354, "UniqueCirculation": 201, "DemandMultiple": 1.761194}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Meteor Magnet", "TimesTraded": 28617, "UniqueCirculation": 15950, "DemandMultiple": 1.7941693}
+{"Type": "VehicleCustomization.Spoiler", "Name": "King", "TimesTraded": 12100, "UniqueCirculation": 6735, "DemandMultiple": 1.796585}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tesla", "TimesTraded": 30543, "UniqueCirculation": 16904, "DemandMultiple": 1.8068504}
+{"Type": "VehicleCustomization.Spoiler", "Name": "5B Flags", "TimesTraded": 2597, "UniqueCirculation": 1414, "DemandMultiple": 1.8366337}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tuner", "TimesTraded": 1140, "UniqueCirculation": 617, "DemandMultiple": 1.8476499}
+{"Type": "VehicleCustomization.Spoiler", "Name": "JapaneseLantern", "TimesTraded": 2634, "UniqueCirculation": 1418, "DemandMultiple": 1.8575459}
+{"Type": "VehicleCustomization.Spoiler", "Name": "ToriiGate", "TimesTraded": 31597, "UniqueCirculation": 16856, "DemandMultiple": 1.8745254}
+{"Type": "VehicleCustomization.Spoiler", "Name": "5Star", "TimesTraded": 482, "UniqueCirculation": 256, "DemandMultiple": 1.8828125}
+{"Type": "VehicleCustomization.Spoiler", "Name": "RC Antenna", "TimesTraded": 7321, "UniqueCirculation": 3887, "DemandMultiple": 1.8834577}
+{"Type": "VehicleCustomization.Spoiler", "Name": "EnduranceWing", "TimesTraded": 909, "UniqueCirculation": 481, "DemandMultiple": 1.889813}
+{"Type": "VehicleCustomization.Spoiler", "Name": "EightLeg", "TimesTraded": 387, "UniqueCirculation": 204, "DemandMultiple": 1.8970588}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Travel Case", "TimesTraded": 6779, "UniqueCirculation": 3560, "DemandMultiple": 1.9042134}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Velocity", "TimesTraded": 667, "UniqueCirculation": 346, "DemandMultiple": 1.9277457}
+{"Type": "VehicleCustomization.Spoiler", "Name": "DoYouLift", "TimesTraded": 5389, "UniqueCirculation": 2790, "DemandMultiple": 1.9315412}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Mecha Arm", "TimesTraded": 796, "UniqueCirculation": 411, "DemandMultiple": 1.9367397}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Trophy Wings", "TimesTraded": 15042, "UniqueCirculation": 7704, "DemandMultiple": 1.9524922}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Tank Wing", "TimesTraded": 18220, "UniqueCirculation": 9267, "DemandMultiple": 1.9661163}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Turning Key", "TimesTraded": 2783, "UniqueCirculation": 1407, "DemandMultiple": 1.9779673}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Live Glider", "TimesTraded": 2987, "UniqueCirculation": 1499, "DemandMultiple": 1.9926618}
+{"Type": "VehicleCustomization.Spoiler", "Name": "JDM", "TimesTraded": 3085, "UniqueCirculation": 1536, "DemandMultiple": 2.0084636}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Snow Log", "TimesTraded": 2554, "UniqueCirculation": 1268, "DemandMultiple": 2.0141957}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Deathtrap", "TimesTraded": 2130, "UniqueCirculation": 1046, "DemandMultiple": 2.0363288}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Jetpack", "TimesTraded": 1316, "UniqueCirculation": 632, "DemandMultiple": 2.0822785}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Afterburner", "TimesTraded": 1026, "UniqueCirculation": 491, "DemandMultiple": 2.089613}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Dual Flags", "TimesTraded": 1467, "UniqueCirculation": 695, "DemandMultiple": 2.1107914}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Star Wing", "TimesTraded": 3755, "UniqueCirculation": 1768, "DemandMultiple": 2.1238687}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Triple Fin", "TimesTraded": 2200, "UniqueCirculation": 1032, "DemandMultiple": 2.131783}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Deathray", "TimesTraded": 1671, "UniqueCirculation": 778, "DemandMultiple": 2.147815}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Flamethrower", "TimesTraded": 1748, "UniqueCirculation": 809, "DemandMultiple": 2.1606922}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Robowing", "TimesTraded": 4263, "UniqueCirculation": 1944, "DemandMultiple": 2.1929011}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Water Gun", "TimesTraded": 2584, "UniqueCirculation": 1148, "DemandMultiple": 2.2508712}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Overdrive", "TimesTraded": 4978, "UniqueCirculation": 2183, "DemandMultiple": 2.280348}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Clickbait", "TimesTraded": 692, "UniqueCirculation": 283, "DemandMultiple": 2.4452298}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Cash Spitter", "TimesTraded": 3027, "UniqueCirculation": 1180, "DemandMultiple": 2.5652542}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Orange Chute", "TimesTraded": 2910, "UniqueCirculation": 1133, "DemandMultiple": 2.5684025}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Blue Chute", "TimesTraded": 1550, "UniqueCirculation": 590, "DemandMultiple": 2.6271186}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Spare", "TimesTraded": 3307, "UniqueCirculation": 1238, "DemandMultiple": 2.671244}
+{"Type": "VehicleCustomization.Spoiler", "Name": "3Billion", "TimesTraded": 11294, "UniqueCirculation": 3979, "DemandMultiple": 2.8384016}
+{"Type": "VehicleCustomization.Spoiler", "Name": "2Billion", "TimesTraded": 964, "UniqueCirculation": 277, "DemandMultiple": 3.4801445}
+{"Type": "VehicleCustomization.Spoiler", "Name": "UFO", "TimesTraded": 6390, "UniqueCirculation": 1823, "DemandMultiple": 3.505211}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Dual Rockets", "TimesTraded": 9610, "UniqueCirculation": 2451, "DemandMultiple": 3.9208486}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Thrusters", "TimesTraded": 1940, "UniqueCirculation": 475, "DemandMultiple": 4.0842104}
+{"Type": "VehicleCustomization.Spoiler", "Name": "Brickset", "TimesTraded": 1155, "UniqueCirculation": 281, "DemandMultiple": 4.11032}
+{"Type": "VehicleCustomization.Rim", "Name": "Rally", "TimesTraded": 3175, "UniqueCirculation": 2355, "DemandMultiple": 1.3481953}
+{"Type": "VehicleCustomization.Rim", "Name": "Blade", "TimesTraded": 2584, "UniqueCirculation": 1898, "DemandMultiple": 1.361433}
+{"Type": "VehicleCustomization.Rim", "Name": "Turbine", "TimesTraded": 4799, "UniqueCirculation": 3518, "DemandMultiple": 1.3641274}
+{"Type": "VehicleCustomization.Rim", "Name": "Flower", "TimesTraded": 22582, "UniqueCirculation": 16455, "DemandMultiple": 1.3723488}
+{"Type": "VehicleCustomization.Rim", "Name": "Halo", "TimesTraded": 7607, "UniqueCirculation": 5520, "DemandMultiple": 1.3780797}
+{"Type": "VehicleCustomization.Rim", "Name": "RFX", "TimesTraded": 6034, "UniqueCirculation": 4346, "DemandMultiple": 1.3884032}
+{"Type": "VehicleCustomization.Rim", "Name": "Cyclone", "TimesTraded": 2682, "UniqueCirculation": 1930, "DemandMultiple": 1.3896374}
+{"Type": "VehicleCustomization.Rim", "Name": "Arachnid", "TimesTraded": 6847, "UniqueCirculation": 4908, "DemandMultiple": 1.3950692}
+{"Type": "VehicleCustomization.Rim", "Name": "Money", "TimesTraded": 24325, "UniqueCirculation": 17387, "DemandMultiple": 1.3990338}
+{"Type": "VehicleCustomization.Rim", "Name": "Forged", "TimesTraded": 4518, "UniqueCirculation": 3223, "DemandMultiple": 1.4017996}
+{"Type": "VehicleCustomization.Rim", "Name": "Abstracts", "TimesTraded": 5795, "UniqueCirculation": 4123, "DemandMultiple": 1.40553}
+{"Type": "VehicleCustomization.Rim", "Name": "Jet", "TimesTraded": 4785, "UniqueCirculation": 3404, "DemandMultiple": 1.4056991}
+{"Type": "VehicleCustomization.Rim", "Name": "Bloxy", "TimesTraded": 808, "UniqueCirculation": 574, "DemandMultiple": 1.4076655}
+{"Type": "VehicleCustomization.Rim", "Name": "Bonded", "TimesTraded": 923, "UniqueCirculation": 655, "DemandMultiple": 1.4091603}
+{"Type": "VehicleCustomization.Rim", "Name": "Billion", "TimesTraded": 4342, "UniqueCirculation": 3003, "DemandMultiple": 1.4458874}
+{"Type": "VehicleCustomization.Rim", "Name": "Daytona", "TimesTraded": 379, "UniqueCirculation": 262, "DemandMultiple": 1.4465649}
+{"Type": "VehicleCustomization.Rim", "Name": "Vault Door", "TimesTraded": 5726, "UniqueCirculation": 3875, "DemandMultiple": 1.4776775}
+{"Type": "VehicleCustomization.Rim", "Name": "Revolver", "TimesTraded": 6210, "UniqueCirculation": 4190, "DemandMultiple": 1.4821002}
+{"Type": "VehicleCustomization.Rim", "Name": "SubCarbon", "TimesTraded": 557, "UniqueCirculation": 375, "DemandMultiple": 1.4853333}
+{"Type": "VehicleCustomization.Rim", "Name": "Spike", "TimesTraded": 25238, "UniqueCirculation": 16951, "DemandMultiple": 1.4888797}
+{"Type": "VehicleCustomization.Rim", "Name": "Slashers", "TimesTraded": 16254, "UniqueCirculation": 10822, "DemandMultiple": 1.5019405}
+{"Type": "VehicleCustomization.Rim", "Name": "Police Chase", "TimesTraded": 3817, "UniqueCirculation": 2534, "DemandMultiple": 1.5063142}
+{"Type": "VehicleCustomization.Rim", "Name": "Hold E", "TimesTraded": 2660, "UniqueCirculation": 1755, "DemandMultiple": 1.5156695}
+{"Type": "VehicleCustomization.Rim", "Name": "Reactor", "TimesTraded": 3884, "UniqueCirculation": 2543, "DemandMultiple": 1.5273299}
+{"Type": "VehicleCustomization.Rim", "Name": "EXP1", "TimesTraded": 10619, "UniqueCirculation": 6891, "DemandMultiple": 1.5409955}
+{"Type": "VehicleCustomization.Rim", "Name": "Propeller", "TimesTraded": 3279, "UniqueCirculation": 2101, "DemandMultiple": 1.5606854}
+{"Type": "VehicleCustomization.Rim", "Name": "ShipWheel", "TimesTraded": 1054, "UniqueCirculation": 672, "DemandMultiple": 1.5684524}
+{"Type": "VehicleCustomization.Rim", "Name": "DragonChaser", "TimesTraded": 3006, "UniqueCirculation": 1884, "DemandMultiple": 1.5955414}
+{"Type": "VehicleCustomization.Rim", "Name": "4 Billion", "TimesTraded": 1497, "UniqueCirculation": 938, "DemandMultiple": 1.5959488}
+{"Type": "VehicleCustomization.Rim", "Name": "Doubloon", "TimesTraded": 664, "UniqueCirculation": 415, "DemandMultiple": 1.6}
+{"Type": "VehicleCustomization.Rim", "Name": "Volleyball", "TimesTraded": 17431, "UniqueCirculation": 10707, "DemandMultiple": 1.6280004}
+{"Type": "VehicleCustomization.Rim", "Name": "Radioactive", "TimesTraded": 8136, "UniqueCirculation": 4939, "DemandMultiple": 1.647297}
+{"Type": "VehicleCustomization.Rim", "Name": "Rubber Ducky", "TimesTraded": 1804, "UniqueCirculation": 1081, "DemandMultiple": 1.6688251}
+{"Type": "VehicleCustomization.Rim", "Name": "Soccer", "TimesTraded": 578, "UniqueCirculation": 345, "DemandMultiple": 1.6753623}
+{"Type": "VehicleCustomization.Rim", "Name": "Iron Rock", "TimesTraded": 333, "UniqueCirculation": 198, "DemandMultiple": 1.6818181}
+{"Type": "VehicleCustomization.Rim", "Name": "Dino", "TimesTraded": 1059, "UniqueCirculation": 613, "DemandMultiple": 1.7275693}
+{"Type": "VehicleCustomization.Rim", "Name": "Center Lock", "TimesTraded": 398, "UniqueCirculation": 229, "DemandMultiple": 1.7379912}
+{"Type": "VehicleCustomization.Rim", "Name": "Piggy", "TimesTraded": 11617, "UniqueCirculation": 6589, "DemandMultiple": 1.76309}
+{"Type": "VehicleCustomization.Rim", "Name": "Electrostatic", "TimesTraded": 26630, "UniqueCirculation": 15090, "DemandMultiple": 1.7647449}
+{"Type": "VehicleCustomization.Rim", "Name": "Beadlock", "TimesTraded": 1394, "UniqueCirculation": 772, "DemandMultiple": 1.8056995}
+{"Type": "VehicleCustomization.Rim", "Name": "Retro Racer", "TimesTraded": 6930, "UniqueCirculation": 3787, "DemandMultiple": 1.8299445}
+{"Type": "VehicleCustomization.Rim", "Name": "Stance", "TimesTraded": 2920, "UniqueCirculation": 1582, "DemandMultiple": 1.8457649}
+{"Type": "VehicleCustomization.Rim", "Name": "Sakura", "TimesTraded": 2336, "UniqueCirculation": 1262, "DemandMultiple": 1.8510301}
+{"Type": "VehicleCustomization.Rim", "Name": "Unknown Signal", "TimesTraded": 3358, "UniqueCirculation": 1794, "DemandMultiple": 1.8717948}
+{"Type": "VehicleCustomization.Rim", "Name": "Sawblade", "TimesTraded": 5506, "UniqueCirculation": 2921, "DemandMultiple": 1.8849709}
+{"Type": "VehicleCustomization.Rim", "Name": "Teddy Bear", "TimesTraded": 16040, "UniqueCirculation": 8508, "DemandMultiple": 1.8852844}
+{"Type": "VehicleCustomization.Rim", "Name": "Trion", "TimesTraded": 6488, "UniqueCirculation": 3429, "DemandMultiple": 1.8920969}
+{"Type": "VehicleCustomization.Rim", "Name": "Blue Eyes", "TimesTraded": 424, "UniqueCirculation": 224, "DemandMultiple": 1.8928572}
+{"Type": "VehicleCustomization.Rim", "Name": "Scope", "TimesTraded": 7355, "UniqueCirculation": 3875, "DemandMultiple": 1.8980645}
+{"Type": "VehicleCustomization.Rim", "Name": "Radar", "TimesTraded": 695, "UniqueCirculation": 365, "DemandMultiple": 1.9041096}
+{"Type": "VehicleCustomization.Rim", "Name": "Ionize", "TimesTraded": 692, "UniqueCirculation": 362, "DemandMultiple": 1.9116023}
+{"Type": "VehicleCustomization.Rim", "Name": "Roll-X", "TimesTraded": 6259, "UniqueCirculation": 3253, "DemandMultiple": 1.9240701}
+{"Type": "VehicleCustomization.Rim", "Name": "Spider Leg", "TimesTraded": 618, "UniqueCirculation": 316, "DemandMultiple": 1.9556962}
+{"Type": "VehicleCustomization.Rim", "Name": "Fore", "TimesTraded": 1334, "UniqueCirculation": 680, "DemandMultiple": 1.9617647}
+{"Type": "VehicleCustomization.Rim", "Name": "Baller", "TimesTraded": 1328, "UniqueCirculation": 675, "DemandMultiple": 1.9674075}
+{"Type": "VehicleCustomization.Rim", "Name": "Diamond Engrave", "TimesTraded": 1012, "UniqueCirculation": 512, "DemandMultiple": 1.9765625}
+{"Type": "VehicleCustomization.Rim", "Name": "Distorted", "TimesTraded": 1087, "UniqueCirculation": 541, "DemandMultiple": 2.009242}
+{"Type": "VehicleCustomization.Rim", "Name": "Red Eyes", "TimesTraded": 668, "UniqueCirculation": 332, "DemandMultiple": 2.0120482}
+{"Type": "VehicleCustomization.Rim", "Name": "Tesseract", "TimesTraded": 3001, "UniqueCirculation": 1464, "DemandMultiple": 2.0498633}
+{"Type": "VehicleCustomization.Rim", "Name": "Track Toy", "TimesTraded": 3103, "UniqueCirculation": 1504, "DemandMultiple": 2.063165}
+{"Type": "VehicleCustomization.Rim", "Name": "Laser Cannon", "TimesTraded": 1121, "UniqueCirculation": 531, "DemandMultiple": 2.1111112}
+{"Type": "VehicleCustomization.Rim", "Name": "Compass", "TimesTraded": 1542, "UniqueCirculation": 728, "DemandMultiple": 2.1181319}
+{"Type": "VehicleCustomization.Rim", "Name": "Energized", "TimesTraded": 2251, "UniqueCirculation": 1057, "DemandMultiple": 2.1296122}
+{"Type": "VehicleCustomization.Rim", "Name": "Star Badge", "TimesTraded": 750, "UniqueCirculation": 349, "DemandMultiple": 2.148997}
+{"Type": "VehicleCustomization.Rim", "Name": "Live2020", "TimesTraded": 3084, "UniqueCirculation": 1327, "DemandMultiple": 2.3240392}
+{"Type": "VehicleCustomization.Rim", "Name": "Nemesis", "TimesTraded": 1741, "UniqueCirculation": 728, "DemandMultiple": 2.3914835}
+{"Type": "VehicleCustomization.Rim", "Name": "Planetary", "TimesTraded": 1435, "UniqueCirculation": 522, "DemandMultiple": 2.749042}
+{"Type": "VehicleCustomization.Rim", "Name": "Snow Face", "TimesTraded": 585, "UniqueCirculation": 207, "DemandMultiple": 2.826087}
+{"Type": "VehicleCustomization.Rim", "Name": "Bull", "TimesTraded": 3971, "UniqueCirculation": 1205, "DemandMultiple": 3.2954357}
+{"Type": "VehicleCustomization.Rim", "Name": "Icicle", "TimesTraded": 1314, "UniqueCirculation": 384, "DemandMultiple": 3.421875}
+{"Type": "VehicleCustomization.Rim", "Name": "Snowflake", "TimesTraded": 1620, "UniqueCirculation": 469, "DemandMultiple": 3.4541578}
+{"Type": "VehicleCustomization.Rim", "Name": "Brickset", "TimesTraded": 1037, "UniqueCirculation": 266, "DemandMultiple": 3.8984962}
+{"Type": "VehicleCustomization.Rim", "Name": "Hypno", "TimesTraded": 2971, "UniqueCirculation": 760, "DemandMultiple": 3.9092104}
+{"Type": "VehicleCustomization.Rim", "Name": "Void", "TimesTraded": 1113, "UniqueCirculation": 281, "DemandMultiple": 3.960854}
+{"Type": "VehicleCustomization.Rim", "Name": "RTX", "TimesTraded": 1537, "UniqueCirculation": 359, "DemandMultiple": 4.2813373}
+{"Type": "VehicleCustomization.Rim", "Name": "Spinner", "TimesTraded": 1357, "UniqueCirculation": 262, "DemandMultiple": 5.1793895}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Green", "TimesTraded": 1100, "UniqueCirculation": 888, "DemandMultiple": 1.2387388}
+{"Type": "VehicleCustomization.Color", "Name": "Purple", "TimesTraded": 3323, "UniqueCirculation": 2588, "DemandMultiple": 1.2840031}
+{"Type": "VehicleCustomization.Color", "Name": "Pink", "TimesTraded": 2862, "UniqueCirculation": 2227, "DemandMultiple": 1.2851369}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Brown", "TimesTraded": 820, "UniqueCirculation": 637, "DemandMultiple": 1.2872841}
+{"Type": "VehicleCustomization.Color", "Name": "Matte", "TimesTraded": 2624, "UniqueCirculation": 2032, "DemandMultiple": 1.2913386}
+{"Type": "VehicleCustomization.Color", "Name": "Green", "TimesTraded": 7460, "UniqueCirculation": 5772, "DemandMultiple": 1.2924463}
+{"Type": "VehicleCustomization.Color", "Name": "Grey", "TimesTraded": 1346, "UniqueCirculation": 1040, "DemandMultiple": 1.2942308}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Orange", "TimesTraded": 943, "UniqueCirculation": 728, "DemandMultiple": 1.2953297}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Yellow", "TimesTraded": 907, "UniqueCirculation": 700, "DemandMultiple": 1.2957143}
+{"Type": "VehicleCustomization.Color", "Name": "Yellow", "TimesTraded": 7315, "UniqueCirculation": 5644, "DemandMultiple": 1.2960666}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Blue", "TimesTraded": 2413, "UniqueCirculation": 1861, "DemandMultiple": 1.2966148}
+{"Type": "VehicleCustomization.Color", "Name": "Blue", "TimesTraded": 9315, "UniqueCirculation": 7176, "DemandMultiple": 1.2980769}
+{"Type": "VehicleCustomization.Color", "Name": "Orange", "TimesTraded": 7266, "UniqueCirculation": 5596, "DemandMultiple": 1.2984275}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Gray", "TimesTraded": 778, "UniqueCirculation": 599, "DemandMultiple": 1.2988313}
+{"Type": "VehicleCustomization.Color", "Name": "Cyan", "TimesTraded": 3483, "UniqueCirculation": 2672, "DemandMultiple": 1.3035179}
+{"Type": "VehicleCustomization.Color", "Name": "Black", "TimesTraded": 10025, "UniqueCirculation": 7690, "DemandMultiple": 1.3036411}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Marine", "TimesTraded": 552, "UniqueCirculation": 423, "DemandMultiple": 1.3049645}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Pink", "TimesTraded": 616, "UniqueCirculation": 472, "DemandMultiple": 1.3050847}
+{"Type": "VehicleCustomization.Color", "Name": "Navy Blue", "TimesTraded": 799, "UniqueCirculation": 608, "DemandMultiple": 1.3141447}
+{"Type": "VehicleCustomization.Color", "Name": "White", "TimesTraded": 6380, "UniqueCirculation": 4833, "DemandMultiple": 1.320091}
+{"Type": "VehicleCustomization.Color", "Name": "Red", "TimesTraded": 7298, "UniqueCirculation": 5528, "DemandMultiple": 1.3201882}
+{"Type": "VehicleCustomization.Color", "Name": "Sand", "TimesTraded": 1462, "UniqueCirculation": 1105, "DemandMultiple": 1.323077}
+{"Type": "VehicleCustomization.Color", "Name": "Pastel Violet", "TimesTraded": 1674, "UniqueCirculation": 1265, "DemandMultiple": 1.3233202}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Blue", "TimesTraded": 1047, "UniqueCirculation": 789, "DemandMultiple": 1.3269962}
+{"Type": "VehicleCustomization.Color", "Name": "Forest Green", "TimesTraded": 3489, "UniqueCirculation": 2628, "DemandMultiple": 1.3276255}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Green", "TimesTraded": 432, "UniqueCirculation": 323, "DemandMultiple": 1.3374614}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Brown", "TimesTraded": 504, "UniqueCirculation": 375, "DemandMultiple": 1.344}
+{"Type": "VehicleCustomization.Color", "Name": "Real Green", "TimesTraded": 1100, "UniqueCirculation": 800, "DemandMultiple": 1.375}
+{"Type": "VehicleCustomization.Color", "Name": "Hottest Pink", "TimesTraded": 2373, "UniqueCirculation": 1723, "DemandMultiple": 1.377249}
+{"Type": "VehicleCustomization.Color", "Name": "Military Green", "TimesTraded": 629, "UniqueCirculation": 450, "DemandMultiple": 1.3977778}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Red", "TimesTraded": 805, "UniqueCirculation": 568, "DemandMultiple": 1.4172535}
+{"Type": "VehicleCustomization.Color", "Name": "Deep Purple", "TimesTraded": 22430, "UniqueCirculation": 15719, "DemandMultiple": 1.4269356}
+{"Type": "VehicleCustomization.Color", "Name": "Hot Orange", "TimesTraded": 23040, "UniqueCirculation": 16040, "DemandMultiple": 1.436409}
+{"Type": "VehicleCustomization.Color", "Name": "Super Lime", "TimesTraded": 20206, "UniqueCirculation": 13919, "DemandMultiple": 1.4516847}
+{"Type": "VehicleCustomization.Color", "Name": "Sakura Pink", "TimesTraded": 1195, "UniqueCirculation": 820, "DemandMultiple": 1.4573171}
+{"Type": "VehicleCustomization.Color", "Name": "Maroon", "TimesTraded": 599, "UniqueCirculation": 404, "DemandMultiple": 1.4826733}
+{"Type": "VehicleCustomization.Color", "Name": "Fall Chrome", "TimesTraded": 3257, "UniqueCirculation": 1894, "DemandMultiple": 1.719641}
+{"Type": "VehicleCustomization.Color", "Name": "Darkest Purple", "TimesTraded": 15563, "UniqueCirculation": 8371, "DemandMultiple": 1.8591566}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Yellow", "TimesTraded": 15368, "UniqueCirculation": 6966, "DemandMultiple": 2.206144}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Red", "TimesTraded": 39296, "UniqueCirculation": 17565, "DemandMultiple": 2.2371762}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Orange", "TimesTraded": 13850, "UniqueCirculation": 6149, "DemandMultiple": 2.2523987}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Purple", "TimesTraded": 71445, "UniqueCirculation": 30266, "DemandMultiple": 2.3605697}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Ice", "TimesTraded": 20564, "UniqueCirculation": 8701, "DemandMultiple": 2.3634064}
+{"Type": "VehicleCustomization.Color", "Name": "Radiant Green", "TimesTraded": 66727, "UniqueCirculation": 27964, "DemandMultiple": 2.3861752}
+{"Type": "VehicleCustomization.Color", "Name": "HyperBlue Lvl3", "TimesTraded": 118, "UniqueCirculation": 47, "DemandMultiple": 2.5106382}
+{"Type": "VehicleCustomization.Color", "Name": "HyperDiamond Lvl3", "TimesTraded": 632, "UniqueCirculation": 243, "DemandMultiple": 2.6008232}
+{"Type": "VehicleCustomization.Color", "Name": "HyperRed Lvl3", "TimesTraded": 306, "UniqueCirculation": 117, "DemandMultiple": 2.6153846}
+{"Type": "VehicleCustomization.Color", "Name": "HyperGreen Lvl3", "TimesTraded": 348, "UniqueCirculation": 126, "DemandMultiple": 2.7619047}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPurple Lvl3", "TimesTraded": 861, "UniqueCirculation": 309, "DemandMultiple": 2.7864077}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPurple Lvl4", "TimesTraded": 435, "UniqueCirculation": 156, "DemandMultiple": 2.7884614}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPink Lvl3", "TimesTraded": 414, "UniqueCirculation": 142, "DemandMultiple": 2.915493}
+{"Type": "VehicleCustomization.Color", "Name": "HyperRed Lvl2", "TimesTraded": 2671, "UniqueCirculation": 850, "DemandMultiple": 3.142353}
+{"Type": "VehicleCustomization.Color", "Name": "HyperOrange Lvl3", "TimesTraded": 1673, "UniqueCirculation": 524, "DemandMultiple": 3.192748}
+{"Type": "VehicleCustomization.Color", "Name": "HyperDiamond Lvl4", "TimesTraded": 379, "UniqueCirculation": 115, "DemandMultiple": 3.2956522}
+{"Type": "VehicleCustomization.Color", "Name": "HyperYellow Lvl3", "TimesTraded": 571, "UniqueCirculation": 169, "DemandMultiple": 3.378698}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPurple Lvl1", "TimesTraded": 41118, "UniqueCirculation": 11892, "DemandMultiple": 3.4576185}
+{"Type": "VehicleCustomization.Color", "Name": "HyperDiamond Lvl2", "TimesTraded": 4171, "UniqueCirculation": 1203, "DemandMultiple": 3.4671655}
+{"Type": "VehicleCustomization.Color", "Name": "HyperBlue Lvl1", "TimesTraded": 16240, "UniqueCirculation": 4649, "DemandMultiple": 3.4932244}
+{"Type": "VehicleCustomization.Color", "Name": "HyperOrange Lvl1", "TimesTraded": 71183, "UniqueCirculation": 20312, "DemandMultiple": 3.5044801}
+{"Type": "VehicleCustomization.Color", "Name": "HyperBlue Lvl2", "TimesTraded": 1052, "UniqueCirculation": 300, "DemandMultiple": 3.5066667}
+{"Type": "VehicleCustomization.Color", "Name": "HyperDiamond Lvl1", "TimesTraded": 37694, "UniqueCirculation": 10743, "DemandMultiple": 3.5087032}
+{"Type": "VehicleCustomization.Color", "Name": "HyperYellow Lvl1", "TimesTraded": 31794, "UniqueCirculation": 9055, "DemandMultiple": 3.5112092}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPink Lvl1", "TimesTraded": 37462, "UniqueCirculation": 10577, "DemandMultiple": 3.541836}
+{"Type": "VehicleCustomization.Color", "Name": "HyperYellow Lvl4", "TimesTraded": 248, "UniqueCirculation": 70, "DemandMultiple": 3.5428572}
+{"Type": "VehicleCustomization.Color", "Name": "HyperRed Lvl1", "TimesTraded": 32194, "UniqueCirculation": 9068, "DemandMultiple": 3.5502868}
+{"Type": "VehicleCustomization.Color", "Name": "HyperGreen Lvl1", "TimesTraded": 29414, "UniqueCirculation": 8247, "DemandMultiple": 3.5666304}
+{"Type": "VehicleCustomization.Color", "Name": "HyperRed Lvl4", "TimesTraded": 119, "UniqueCirculation": 33, "DemandMultiple": 3.6060605}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPurple Lvl2", "TimesTraded": 5699, "UniqueCirculation": 1571, "DemandMultiple": 3.6276257}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPink Lvl2", "TimesTraded": 3588, "UniqueCirculation": 985, "DemandMultiple": 3.6426396}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPink Lvl4", "TimesTraded": 166, "UniqueCirculation": 45, "DemandMultiple": 3.6888888}
+{"Type": "VehicleCustomization.Color", "Name": "HyperGreen Lvl2", "TimesTraded": 2653, "UniqueCirculation": 704, "DemandMultiple": 3.768466}
+{"Type": "VehicleCustomization.Color", "Name": "HyperOrange Lvl4", "TimesTraded": 716, "UniqueCirculation": 183, "DemandMultiple": 3.9125683}
+{"Type": "VehicleCustomization.Color", "Name": "Vantablack", "TimesTraded": 2600, "UniqueCirculation": 664, "DemandMultiple": 3.9156628}
+{"Type": "VehicleCustomization.Color", "Name": "HyperGreen Lvl4", "TimesTraded": 134, "UniqueCirculation": 34, "DemandMultiple": 3.9411764}
+{"Type": "VehicleCustomization.Color", "Name": "HyperYellow Lvl2", "TimesTraded": 3853, "UniqueCirculation": 884, "DemandMultiple": 4.3585973}
+{"Type": "VehicleCustomization.Color", "Name": "HyperOrange Lvl2", "TimesTraded": 13262, "UniqueCirculation": 2946, "DemandMultiple": 4.501697}
+{"Type": "VehicleCustomization.Color", "Name": "Gold", "TimesTraded": 33678, "UniqueCirculation": 6638, "DemandMultiple": 5.073516}
+{"Type": "VehicleCustomization.Color", "Name": "HyperBlue Lvl4", "TimesTraded": 152, "UniqueCirculation": 27, "DemandMultiple": 5.6296296}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPurple Lvl5", "TimesTraded": 754, "UniqueCirculation": 75, "DemandMultiple": 10.053333}
+{"Type": "VehicleCustomization.Color", "Name": "HyperDiamond Lvl5", "TimesTraded": 871, "UniqueCirculation": 78, "DemandMultiple": 11.166667}
+{"Type": "VehicleCustomization.Color", "Name": "HyperOrange Lvl5", "TimesTraded": 771, "UniqueCirculation": 69, "DemandMultiple": 11.173913}
+{"Type": "VehicleCustomization.Color", "Name": "HyperYellow Lvl5", "TimesTraded": 758, "UniqueCirculation": 54, "DemandMultiple": 14.037037}
+{"Type": "VehicleCustomization.Color", "Name": "HyperPink Lvl5", "TimesTraded": 506, "UniqueCirculation": 18, "DemandMultiple": 28.11111}
+{"Type": "VehicleCustomization.Color", "Name": "HyperBlue Lvl5", "TimesTraded": 620, "UniqueCirculation": 21, "DemandMultiple": 29.52381}
+{"Type": "VehicleCustomization.Color", "Name": "HyperGreen Lvl5", "TimesTraded": 644, "UniqueCirculation": 21, "DemandMultiple": 30.666666}
+{"Type": "VehicleCustomization.Color", "Name": "HyperRed Lvl5", "TimesTraded": 1293, "UniqueCirculation": 30, "DemandMultiple": 43.1}
+{"Type": "VehicleCustomization.Drift", "Name": "Performance", "TimesTraded": 5231, "UniqueCirculation": 3598, "DemandMultiple": 1.4538633}
+{"Type": "VehicleCustomization.Drift", "Name": "Cartoon", "TimesTraded": 3755, "UniqueCirculation": 2515, "DemandMultiple": 1.4930418}
+{"Type": "VehicleCustomization.Drift", "Name": "Melons", "TimesTraded": 8348, "UniqueCirculation": 5467, "DemandMultiple": 1.52698}
+{"Type": "VehicleCustomization.Drift", "Name": "Pixel", "TimesTraded": 2180, "UniqueCirculation": 1410, "DemandMultiple": 1.5460993}
+{"Type": "VehicleCustomization.Drift", "Name": "Bubble Wand", "TimesTraded": 4247, "UniqueCirculation": 2687, "DemandMultiple": 1.5805731}
+{"Type": "VehicleCustomization.Drift", "Name": "Magic Purple", "TimesTraded": 9481, "UniqueCirculation": 5679, "DemandMultiple": 1.669484}
+{"Type": "VehicleCustomization.Drift", "Name": "Flamethrower", "TimesTraded": 6725, "UniqueCirculation": 3561, "DemandMultiple": 1.8885145}
+{"Type": "VehicleCustomization.Drift", "Name": "Lightning", "TimesTraded": 5686, "UniqueCirculation": 2796, "DemandMultiple": 2.0336194}
