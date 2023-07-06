@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Organized JB Data</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+</head>
+<body>
+    <div id="json-container"></div>
+
+    <script>// Fetch the JSON data
+        fetch('organizedData.json')
+            .then(response => response.json())
+            .then(data => {
+                // Access the data and generate HTML elements
+                const container = document.getElementById('json-container');
+                const dataString = JSON.stringify(data, null, 2); // Optional: Beautify JSON string
+        
+                // Create a <pre> element to preserve the formatting
+                const preElement = document.createElement('pre');
+                preElement.textContent = dataString;
+        
+                // Append the <pre> element to the container
+                container.appendChild(preElement);
+            })
+            .catch(error => console.log(error));
+        </script>
+</body>
+</html>
